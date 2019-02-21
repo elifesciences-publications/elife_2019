@@ -1,5 +1,6 @@
 elife_2019
-Analysis and plotting scripts for behavioral experiments in Sullivan, Warren, and Doe 2019
+Analysis and plotting scripts for behavioral experiments in Sullivan, Warren, and Doe 2019 "Temporal identity establishes columnar neuron morphology, connectivity, and function in a Drosophila navigation circuit". eLife, 2019 https://doi.org/10.7554/eLife.43482
+
 Author of Repository:
 Timothy L. Warren, timlwarren AT gmail 
 
